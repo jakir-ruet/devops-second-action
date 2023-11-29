@@ -17,6 +17,14 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="https://lapissoft.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+            Visit Us
+        </a>
       </header>
     </div>
   );
