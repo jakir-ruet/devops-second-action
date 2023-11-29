@@ -1,3 +1,9 @@
-# React + Vite
+# Instruction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### `npm start`
+
+### `npm test`
+
+### `npm run build`
+
+### `npm run eject`
